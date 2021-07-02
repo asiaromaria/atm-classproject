@@ -1,0 +1,22 @@
+{
+  "name": "atm-project",
+  "version": "1.0.0",
+  "description": "ATM Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asiaromaria/atm-classproject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asiaromaria/atm-classproject/issues"
+  },
+  "homepage": "https://github.com/asiaromaria/atm-classproject#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
